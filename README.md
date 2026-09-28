@@ -1,0 +1,1 @@
+# Crop-of-text-orientation
